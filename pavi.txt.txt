@@ -1,2 +1,3 @@
 Name : J pavithra
 DOB  :16 04 2000
+course : Msc Computer Science
